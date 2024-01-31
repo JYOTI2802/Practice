@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Agdasima:wght@400;700&family=Sora:wght@100..800&family=VT323&display=swap');
+
+
+.background {
+    background-color: #FAFAF9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 340px;
+    height: auto;
+    padding: 20px 16px;
+    display: inline-block;
+    margin-top: 164px;
+    margin-left: 325px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    box-shadow: 0.4rem 0.4rem 0.6rem #e5e8ef;
+}
+
+
+.img_container {
+    margin-bottom: 16px;
+}
+
+.cac-img {
+    width: 336px;
+    height: 152px;
+    border-radius: 10px;
+}
+
+.text-below-img {
+    margin-top: 0; 
+    margin-bottom: 0;
+}
+
+
+.design-title {
+    color: #812ee1;
+    background-color: rgb(230, 214, 252);
+    padding: 6px 12px;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-family: "Sora" , sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+
+
+.contain-title {
+    margin-top: 16px;
+    font-family: "Sora",sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 2px;
+    margin-bottom: 0px;
+}
+
+.main {
+    margin-top: 6px;
+    font-size: 12px;
+    font-weight: 250;
+    margin-left: 2px;
+    margin-right: 25px;
+    margin-bottom: 0px;
+    font-family: "Sora",sans-serif;
+}
+
+.container hr {
+    border: 0;
+    margin-top: 10px;
+    border-top: 2px solid #E5EAF0;
+    width: 100%;
+}
+.foot {
+    margin-top: 20px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    font-family: "Sora",sans-serif;
+    font-size: 12px;
+    font-weight: 250;
+
+}
